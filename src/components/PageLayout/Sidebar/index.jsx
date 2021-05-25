@@ -21,9 +21,9 @@ const DomContent = () => (
     <div className={`${style.name} centerAlign`}>
       <div className={`${style.boxName} centerAlign`}>
         <h2>
-          Rolwin
+          Pulkit
           {' '}
-          <span>Reevan</span>
+          <span>Singh</span>
         </h2>
       </div>
       <div className={`${style.badge} ${style.badgeGray}`}>Software Engineer</div>
@@ -39,28 +39,28 @@ const DomContent = () => (
             <FeatherIcon size="19" icon="calendar" />
             {' '}
           </span>
-&nbsp; &nbsp; May 9,1995
+&nbsp; &nbsp; May 16,1990
         </li>
         <li className={`${style.contactBlockItem}`}>
           <span><FeatherIcon size="19" icon="map-pin" /></span>
           {' '}
-&nbsp; &nbsp; Bangalore, India
+&nbsp; &nbsp; Gurgaon, India
         </li>
         <li className={`${style.contactBlockItem}`}>
           <span><FeatherIcon size="19" icon="mail" /></span>
           {' '}
 &nbsp; &nbsp;
           <a
-            href="mailto:&#114;&#111;&#108;&#119;&#105;&#110;&#109;&#111;&#110;&#116;&#101;&#105;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
+            href="mailto:&#112;&#117;&#108;&#107;&#105;&#116;&#115;&#105;&#110;&#103;&#104;&#048;&#049;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
             target="_top"
           >
             <span className={style.emailHider}>@</span>
           </a>
         </li>
       </ul>
-      <div className={style.resumeDownload}>
+      {/* <div className={style.resumeDownload}>
         <a href="../resume.pdf" download target="_blank">Download CV</a>
-      </div>
+      </div> */}
     </div>
   </aside>
 );

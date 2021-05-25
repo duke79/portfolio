@@ -12,7 +12,7 @@
 This starter consists of ant design system you can use it for your personal blog. I have give a lot of time in developing this starter because I found that there were not much starters with a very good design. Please give a star to this project if you have like it to encourage me 😄. Thank you.
 
 
-## 🚀 Quick start
+## 🚀 Quick startsav
 
 1.  **Setup the project by.**
 
